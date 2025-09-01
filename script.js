@@ -12,7 +12,7 @@ const blogPosts = [
                 id: "events",
                 title: "Paul Christian Tan - Blogs",
                 date: "2025-08-29",
-                image: "assets/img/blog-images/Bmain.jpg",
+                image: "assets/img/blog-images/BMain.jpg",
                 isCategory: true
             }
         ],
@@ -63,31 +63,31 @@ const eventsData = [
                 id: "11",
                 title: "Wish Bus: Walang Biruan",
                 date: "2024-10-29",
-                image: "assets/img/blog-images/Bmain.jpg"
+                image: "assets/img/blog-images/BMain.jpg"
             },
             {
                 id: "12",
                 title: "KPOPCON 12",
                 date: "2024-12-29",
-                image: "assets/img/blog-images/Bmain2.jpg"
+                image: "assets/img/blog-images/BMain2.JPG"
             },
             {
                 id: "13",
                 title: "Backyard Live",
                 date: "2025-01-26",
-                image: "assets/img/blog-images/Bmain3.jpg"
+                image: "assets/img/blog-images/BMain3.jpg"
             },
             {
                 id: "14",
                 title: "PINID National Arts Month",
                 date: "2025-02-26",
-                image: "assets/img/blog-images/Bmain4.jpg"
+                image: "assets/img/blog-images/BMain4.jpg"
             },
             {
                 id: "15",
                 title: "SHE SLAYS CON 2025",
                 date: "2025-03-30",
-                image: "assets/img/blog-images/Bmain5.jpg"
+                image: "assets/img/blog-images/BMain5.jpg"
             },
             {
                 id: "16",
@@ -150,14 +150,14 @@ const subEntryContent = {
     "11": `
         <h1>Wish Bus: Walang Biruan</h1>
         <div class="date">October 29, 2024</div>
-        <img src="assets/img/blog-images/Bmain.jpg" alt="Wish Bus main photo">
+        <img src="assets/img/blog-images/BMain.jpg" alt="Wish Bus main photo">
         <p>What an incredible experience being part of the Wish Bus: Walang Biruan event! KAIA performed "Walang Biruan" and "You Did It" at Piazza Entrance, Venice Grand Canal, BGC Taguig last October 29, 2024. This was my first KAIA event that I experienced since I became a fan last October 12, 2024 when I discovered their songs through TikTok. The energy was absolutely amazing.</p>
         <div class="image-gallery container-bx5">
-            <img src="assets/img/blog-images/B1.jpg">
-            <img src="assets/img/blog-images/B2.jpg">
-            <img src="assets/img/blog-images/B3.jpg">
-            <img src="assets/img/blog-images/B4.jpg">
-            <img src="assets/img/blog-images/B5.jpg">
+            <img src="assets/img/blog-images/B1.JPG">
+            <img src="assets/img/blog-images/B2.JPG">
+            <img src="assets/img/blog-images/B3.JPG">
+            <img src="assets/img/blog-images/B4.JPG">
+            <img src="assets/img/blog-images/B5.JPG">
         </div>
         <p>Meeting fellow fans and sharing the excitement together made this day truly special. I even got the chance to have a picture together with the 5 members of the group - Angela, Charice, Charlotte, Sophia, and Alexa! The performances were outstanding and the atmosphere was electric throughout the entire event.</p>
         <p>Here's their amazing performance from that day:</p>
@@ -177,18 +177,18 @@ const subEntryContent = {
     "12": `
         <h1>KPOPCON 12</h1>
         <div class="date">December 29, 2024</div>
-        <img src="assets/img/blog-images/Bmain2.jpg" alt="KPOPCON12 KAIA Photo">
+        <img src="assets/img/blog-images/BMain2.JPG" alt="KPOPCON12 KAIA Photo">
         <p>KPOP Convention 12 lit up SPACE, One Ayala Makati last December 29, 2024. Fans explored a wide variety of K-pop merchandise booths, enjoyed exciting games, and won fun prizes. The event featured high-energy performances from KAIA with Walang Biruan, Dalawa, and their cover of Touch by Katseye. Other amazing acts included PIXIE, 6sense, BILIB, New:ID, FirstOne, and HORIZON. It was a memorable day for every K-pop fan in attendance.</p>
         <div class="image-gallery container-bx2">
-            <img src="assets/img/blog-images/B6.jpg" alt="KPOPCON12: Meet and Greet Image 1">
-            <img src="assets/img/blog-images/B7.jpg" alt="KPOPCON12: Meet and Greet Image 2">
+            <img src="assets/img/blog-images/B6.JPG" alt="KPOPCON12: Meet and Greet Image 1">
+            <img src="assets/img/blog-images/B7.JPG" alt="KPOPCON12: Meet and Greet Image 2">
         </div>
          <p>Each artist had a meet and greet session. I was lucky enough to meet and have a short chat with them, especially KAIA. I gave them a simple gift, and I was genuinely touched by how heartfelt their reactions were. Since the TWICE album I gave Charlotte had Momo on the cover, I asked her who her bias in TWICE is. She told me it’s Dahyun. Interestingly, even though I gave her a Momo cover, I can really see her strong stage presence just like Momo. It was such a fun and meaningful interaction that made the entire experience even more unforgettable.</p>
         <div class="tiktok-container">
             <iframe src="https://www.tiktok.com/embed/v2/7544634435560312081" title="TikTok video from the event: Fanmeet" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
         <div class="image-gallery ">
-            <img src="assets/img/blog-images/B8.jpg" alt="KPOPCON12: Meet and Greet Image">
+            <img src="assets/img/blog-images/B8.JPG" alt="KPOPCON12: Meet and Greet Image">
         </div>
         <p>These are the ZAIAs (fans) who gathered there for KAIA's meet and greet session. The excitement and support from the fan community was incredible to witness!</p>
          <p>I also captured some moments from the event on my TikTok, including their performances of Walang Biruan and Dalawa.</p>
@@ -201,14 +201,14 @@ const subEntryContent = {
     "13": `
         <h1>Backyard Live</h1>
         <div class="date">January 26, 2025</div>
-        <img src="assets/img/blog-images/Bmain3.jpg" alt="BackyardLive KAIA Photo">
+        <img src="assets/img/blog-images/BMain3.jpg" alt="BackyardLive KAIA Photo">
         <p>KAIA lit up the stage in the first-ever episode of Backyard Live, held in an intimate 360-session setup that brought fans closer than ever. Sharing the spotlight with talented artists like Toneejay, Tota, and Ena Mori, KAIA delivered powerful performances of Walang Biruan, Dalawa, You Did It, and KAYA—a set that truly showcased their growth and artistry. An unforgettable night of music and connection.</p>
         <div class="image-gallery container-bx5">
-            <img src="assets/img/blog-images/B9.jpg">
-            <img src="assets/img/blog-images/B10.jpg">
-            <img src="assets/img/blog-images/B11.jpg">
-            <img src="assets/img/blog-images/B12.jpg">
-            <img src="assets/img/blog-images/B13.jpg">
+            <img src="assets/img/blog-images/B9.JPG">
+            <img src="assets/img/blog-images/B10.JPG">
+            <img src="assets/img/blog-images/B11.JPG">
+            <img src="assets/img/blog-images/B12.JPG">
+            <img src="assets/img/blog-images/B13.JPG">
         </div>
         <p>After the event, I got to take a photo and have a short interaction with the KAIA members. We even did their iconic line intro together: “5, 6, 7, 8... KAIA is here!” They were so warm, down to earth and truly close to their fans. An unforgettable night of music, connection, and genuine moments.</p>
         <p>I also captured some moments from the event on my TikTok:</p>
@@ -220,22 +220,22 @@ const subEntryContent = {
             <iframe src="https://www.youtube.com/embed/BWTRSFt1Q9Y" title="KAIA performs Walang Biruan Backyard Live" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div class="image-gallery container-bx2">
-            <img src="assets/img/blog-images/B14.jpg">
-            <img src="assets/img/blog-images/B15.jpg">
+            <img src="assets/img/blog-images/B14.JPG">
+            <img src="assets/img/blog-images/B15.JPG">
         </div>
         <p>Backyard Live was more than just a concert—it was a celebration of music, artistry, and the special bond between artists and fans. This intimate setting allowed everyone to experience KAIA's talent up close, creating memories that will last a lifetime.</p>
     `,
     "14": `
         <h1>PINID National Arts Month</h1>
         <div class="date">February 26, 2025</div>
-        <img src="assets/img/blog-images/Bmain4.jpg" alt="BackyardLive KAIA Photo">
+        <img src="assets/img/blog-images/BMain4.jpg" alt="BackyardLive KAIA Photo">
         <p>Celebrating Filipino creativity and artistry during National Arts Month was truly inspiring! On February 26, 2025, KAIA took the stage at PINID: Ang Pagsasara sa Pagdiriwang ng Buwan ng mga Sining held at the Metropolitan Theater in Manila. They delivered powerful performances of "5678," "Kaya," "You Did It," "Walang Biruan," and "Dalawa."</p>
         <div class="image-gallery container-bx5">
-            <img src="assets/img/blog-images/B16.jpg">
-            <img src="assets/img/blog-images/B17.jpg">
-            <img src="assets/img/blog-images/B18.jpg">
-            <img src="assets/img/blog-images/B19.jpg">
-            <img src="assets/img/blog-images/B20.jpg">
+            <img src="assets/img/blog-images/B16.JPG">
+            <img src="assets/img/blog-images/B17.JPG">
+            <img src="assets/img/blog-images/B18.JPG">
+            <img src="assets/img/blog-images/B19.JPG">
+            <img src="assets/img/blog-images/B20.JPG">
         </div>
         <p>I even got the chance to have a short interaction with KAIA after the event! We also took group photos with them and fellow fans. It was such a surreal and unforgettable moment. Truly grateful for the experience!</p>
         <p>Here's a special moment I captured from the event:</p>
@@ -244,8 +244,8 @@ const subEntryContent = {
         </div>
         <div class="video-container">
             <video controls style="width: 100%; height: 100%;">
-                <source src="assets/img/blog-images/v1.mov" type="video/quicktime">
-                <source src="assets/img/blog-images/v1.mp4" type="video/mp4">
+                <source src="assets/img/blog-images/V1.mp4" type="video/quicktime">
+                <source src="assets/img/blog-images/V1.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
         </div>
@@ -259,15 +259,15 @@ const subEntryContent = {
     "15": `
         <h1>She Slays Con</h1>
         <div class="date">February 26, 2025</div>
-        <img src="assets/img/blog-images/Bmain5.jpg" alt="BackyardLive KAIA Photo">
+        <img src="assets/img/blog-images/BMain5.jpg" alt="BackyardLive KAIA Photo">
         <p>Sophia of KAIA took the spotlight at She Slays 2025: GirlCoded Convention’s Girl Talk: Tell-All Passion Panels, held last March 30, 2025 at One Ayala. She joined an empowering conversation alongside fellow P-pop idols Anne from Calista, and Joyden and Clara from Dione, in an exclusive live interview and fan experience that highlighted passion, purpose, and the spirit of the P-pop community."</p>
         <div class="image-gallery container-bx2">
-            <img src="assets/img/blog-images/B22.jpg">
-            <img src="assets/img/blog-images/B23.jpg">
+            <img src="assets/img/blog-images/B22.JPG">
+            <img src="assets/img/blog-images/B23.JPG">
         </div>
         <p>Right after the event, we had the amazing opportunity to join a group photo session with KAIA’s Sophia, along with other P-pop idols including Anne from Calista, and Joyden and Clara from Dione. It was a memorable way to wrap up an inspiring and empowering experience.</p>
         <div class="image-gallery container-bx1-small">
-            <img src="assets/img/blog-images/B24.jpg">
+            <img src="assets/img/blog-images/B24.JPG">
         </div>
         <p>I got to take a photo and even film a TikTok video with KAIA’s Sophia during the event! We did the “Tanga” line verse together — definitely a highlight of the day!</p>
         <div class="tiktok-container">
@@ -284,42 +284,42 @@ const subEntryContent = {
         </div>
         <div class="thumbnails-grid">
             <div class="member-thumbnail" onclick="window.location.href='post.html?id=202Angela&type=sub&from=kaiaclips'">
-                <img src="assets/img/blog-images/angela.jpg" alt="Angela">
+                <img src="assets/img/blog-images/angela.JPG" alt="Angela">
                 <div class="thumbnail-info">
                     <span class="thumbnail-title">Angela</span>
                     <span class="thumbnail-date">8 videos</span>
                 </div>
             </div>
             <div class="member-thumbnail" onclick="window.location.href='post.html?id=202Charice&type=sub&from=kaiaclips'">
-                <img src="assets/img/blog-images/charice.jpg" alt="Charice">
+                <img src="assets/img/blog-images/charice.JPG" alt="Charice">
                 <div class="thumbnail-info">
                     <span class="thumbnail-title">Charice</span>
                     <span class="thumbnail-date">1 videos</span>
                 </div>
             </div>
             <div class="member-thumbnail" onclick="window.location.href='post.html?id=202Charlotte&type=sub&from=kaiaclips'">
-                <img src="assets/img/blog-images/charlotte.jpg" alt="Charlotte">
+                <img src="assets/img/blog-images/charlotte.JPG" alt="Charlotte">
                 <div class="thumbnail-info">
                     <span class="thumbnail-title">Charlotte</span>
                     <span class="thumbnail-date">4 videos</span>
                 </div>
             </div>
             <div class="member-thumbnail" onclick="window.location.href='post.html?id=202Alexa&type=sub&from=kaiaclips'">
-                <img src="assets/img/blog-images/alexa.jpg" alt="Alexa">
+                <img src="assets/img/blog-images/alexa.JPG" alt="Alexa">
                 <div class="thumbnail-info">
                     <span class="thumbnail-title">Alexa</span>
                     <span class="thumbnail-date">5 videos</span>
                 </div>
             </div>
             <div class="member-thumbnail" onclick="window.location.href='post.html?id=202Sophia&type=sub&from=kaiaclips'">
-                <img src="assets/img/blog-images/sophia.jpg" alt="Sophia">
+                <img src="assets/img/blog-images/sophia.JPG" alt="Sophia">
                 <div class="thumbnail-info">
                     <span class="thumbnail-title">Sophia</span>
                     <span class="thumbnail-date">2 videos</span>
                 </div>
             </div>
             <div class="member-thumbnail" onclick="window.location.href='post.html?id=202Other&type=sub&from=kaiaclips'">
-                <img src="assets/img/blog-images/kaia.jpg" alt="Other">
+                <img src="assets/img/blog-images/kaia.JPG" alt="Other">
                 <div class="thumbnail-info">
                     <span class="thumbnail-title">Other</span>
                     <span class="thumbnail-date">10 videos</span>
